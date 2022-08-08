@@ -1,3 +1,3 @@
-import _ from "lodash";
+import initializeWebsite from "./website";
 
-console.log("testing testing");
+initializeWebsite();
